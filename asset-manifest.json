@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gorillaDao/static/css/main.4e564127.css",
+    "main.js": "/gorillaDao/static/js/main.d1148610.js",
+    "static/js/787.d42b87b0.chunk.js": "/gorillaDao/static/js/787.d42b87b0.chunk.js",
+    "static/media/logo1.png": "/gorillaDao/static/media/logo1.7be545592ff7aaa57a05.png",
+    "static/media/twitter.png": "/gorillaDao/static/media/twitter.f2d25ccd80582502caeb.png",
+    "static/media/Pixellari.ttf": "/gorillaDao/static/media/Pixellari.319bd0eb3ce3da4ab5b1.ttf",
+    "static/media/bg.png": "/gorillaDao/static/media/bg.275963ca6f4e0597b928.png",
+    "static/media/discord.png": "/gorillaDao/static/media/discord.17e6ca8335e36341567f.png",
+    "static/media/2.png": "/gorillaDao/static/media/2.718296eb60628c1a8043.png",
+    "static/media/1.png": "/gorillaDao/static/media/1.cc89118df4a2637ef0c0.png",
+    "index.html": "/gorillaDao/index.html",
+    "main.4e564127.css.map": "/gorillaDao/static/css/main.4e564127.css.map",
+    "main.d1148610.js.map": "/gorillaDao/static/js/main.d1148610.js.map",
+    "787.d42b87b0.chunk.js.map": "/gorillaDao/static/js/787.d42b87b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e564127.css",
+    "static/js/main.d1148610.js"
+  ]
+}
